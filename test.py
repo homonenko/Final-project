@@ -1,2 +1,2 @@
-print("Влада молодець")
-print("fff")
+artem = print ('артем класний')
+print(artem)
